@@ -1,0 +1,12 @@
+此文件夹为界面层函数接口，
+home 为主界面
+movie 为影片查找
+manager 为经理界面
+seat 为座位管理界面
+user 为用户管理界面
+init 为开启界面
+tourist 为游客界面
+staff 为售票员界面
+admin 为管理员界面
+
+

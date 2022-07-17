@@ -1,0 +1,6 @@
+data “日志文件”即每日销售情况
+money “影片价格文件”
+movie “影片文件”
+seat “座位文件”
+user “用户文件”
+ticket "票务文件”
